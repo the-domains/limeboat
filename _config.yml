@@ -19,7 +19,32 @@ colors:
 name: limeboat
 layout_spectrum: 0.2045324423816055
 typography_spectrum: 0.7785197964403778
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72c9621d-c7f0-4945-ac49-f0b06a31d2fb.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/72c9621d-c7f0-4945-ac49-f0b06a31d2fb.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: limeboat
 description: We know start-ups
 purpose:
