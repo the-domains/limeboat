@@ -1,0 +1,36 @@
+color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+  brandStrength: 0.7480148572940379
+  lightness: 0.6739888165611774
+  saturation: 0.0780347406398505
+  rhythmicContrast: 0.12849254091270268
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: limeboat
+layout_spectrum: 0.2045324423816055
+typography_spectrum: 0.7785197964403778
+content: []
+title: limeboat
+description: We know start-ups
+purpose:
+  - type: contact
+    url: 'tel:8019010834'
+    label: Call
+  - type: contact
+    url: 'mailto:hello@limeboat.com'
+    label: email
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83cd4966-ac90-415d-b863-82e0047b11e4.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf1319c-5b5b-4dd7-ab4f-81eb2cb0a7b6.png
